@@ -1,0 +1,40 @@
+D:\Dhivya\Projects\MS Bot\UC 1\UseCase1OutlookDeletedItemsRecovery\UseCase1OutlookDeletedItemsRecovery\bin\Bot Application.dll.config
+D:\Dhivya\Projects\MS Bot\UC 1\UseCase1OutlookDeletedItemsRecovery\UseCase1OutlookDeletedItemsRecovery\bin\Bot Application.dll
+D:\Dhivya\Projects\MS Bot\UC 1\UseCase1OutlookDeletedItemsRecovery\UseCase1OutlookDeletedItemsRecovery\bin\Bot Application.pdb
+D:\Dhivya\Projects\MS Bot\UC 1\UseCase1OutlookDeletedItemsRecovery\UseCase1OutlookDeletedItemsRecovery\bin\Autofac.dll
+D:\Dhivya\Projects\MS Bot\UC 1\UseCase1OutlookDeletedItemsRecovery\UseCase1OutlookDeletedItemsRecovery\bin\Chronic.dll
+D:\Dhivya\Projects\MS Bot\UC 1\UseCase1OutlookDeletedItemsRecovery\UseCase1OutlookDeletedItemsRecovery\bin\Microsoft.Bot.Builder.Autofac.dll
+D:\Dhivya\Projects\MS Bot\UC 1\UseCase1OutlookDeletedItemsRecovery\UseCase1OutlookDeletedItemsRecovery\bin\Microsoft.Bot.Builder.dll
+D:\Dhivya\Projects\MS Bot\UC 1\UseCase1OutlookDeletedItemsRecovery\UseCase1OutlookDeletedItemsRecovery\bin\Microsoft.Bot.Connector.dll
+D:\Dhivya\Projects\MS Bot\UC 1\UseCase1OutlookDeletedItemsRecovery\UseCase1OutlookDeletedItemsRecovery\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+D:\Dhivya\Projects\MS Bot\UC 1\UseCase1OutlookDeletedItemsRecovery\UseCase1OutlookDeletedItemsRecovery\bin\Microsoft.Rest.ClientRuntime.dll
+D:\Dhivya\Projects\MS Bot\UC 1\UseCase1OutlookDeletedItemsRecovery\UseCase1OutlookDeletedItemsRecovery\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\Dhivya\Projects\MS Bot\UC 1\UseCase1OutlookDeletedItemsRecovery\UseCase1OutlookDeletedItemsRecovery\bin\Newtonsoft.Json.dll
+D:\Dhivya\Projects\MS Bot\UC 1\UseCase1OutlookDeletedItemsRecovery\UseCase1OutlookDeletedItemsRecovery\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Dhivya\Projects\MS Bot\UC 1\UseCase1OutlookDeletedItemsRecovery\UseCase1OutlookDeletedItemsRecovery\bin\System.Net.Http.Formatting.dll
+D:\Dhivya\Projects\MS Bot\UC 1\UseCase1OutlookDeletedItemsRecovery\UseCase1OutlookDeletedItemsRecovery\bin\System.Web.Http.dll
+D:\Dhivya\Projects\MS Bot\UC 1\UseCase1OutlookDeletedItemsRecovery\UseCase1OutlookDeletedItemsRecovery\bin\System.Web.Http.WebHost.dll
+D:\Dhivya\Projects\MS Bot\UC 1\UseCase1OutlookDeletedItemsRecovery\UseCase1OutlookDeletedItemsRecovery\bin\Autofac.xml
+D:\Dhivya\Projects\MS Bot\UC 1\UseCase1OutlookDeletedItemsRecovery\UseCase1OutlookDeletedItemsRecovery\bin\Microsoft.Bot.Builder.xml
+D:\Dhivya\Projects\MS Bot\UC 1\UseCase1OutlookDeletedItemsRecovery\UseCase1OutlookDeletedItemsRecovery\bin\Microsoft.Bot.Builder.Autofac.xml
+D:\Dhivya\Projects\MS Bot\UC 1\UseCase1OutlookDeletedItemsRecovery\UseCase1OutlookDeletedItemsRecovery\bin\Microsoft.Bot.Connector.xml
+D:\Dhivya\Projects\MS Bot\UC 1\UseCase1OutlookDeletedItemsRecovery\UseCase1OutlookDeletedItemsRecovery\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+D:\Dhivya\Projects\MS Bot\UC 1\UseCase1OutlookDeletedItemsRecovery\UseCase1OutlookDeletedItemsRecovery\bin\Microsoft.WindowsAzure.Configuration.xml
+D:\Dhivya\Projects\MS Bot\UC 1\UseCase1OutlookDeletedItemsRecovery\UseCase1OutlookDeletedItemsRecovery\bin\Newtonsoft.Json.xml
+D:\Dhivya\Projects\MS Bot\UC 1\UseCase1OutlookDeletedItemsRecovery\UseCase1OutlookDeletedItemsRecovery\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Dhivya\Projects\MS Bot\UC 1\UseCase1OutlookDeletedItemsRecovery\UseCase1OutlookDeletedItemsRecovery\bin\System.Net.Http.Formatting.xml
+D:\Dhivya\Projects\MS Bot\UC 1\UseCase1OutlookDeletedItemsRecovery\UseCase1OutlookDeletedItemsRecovery\bin\System.Web.Http.xml
+D:\Dhivya\Projects\MS Bot\UC 1\UseCase1OutlookDeletedItemsRecovery\UseCase1OutlookDeletedItemsRecovery\bin\System.Web.Http.WebHost.xml
+D:\Dhivya\Projects\MS Bot\UC 1\UseCase1OutlookDeletedItemsRecovery\UseCase1OutlookDeletedItemsRecovery\bin\ar\Microsoft.Bot.Builder.resources.dll
+D:\Dhivya\Projects\MS Bot\UC 1\UseCase1OutlookDeletedItemsRecovery\UseCase1OutlookDeletedItemsRecovery\bin\cs\Microsoft.Bot.Builder.resources.dll
+D:\Dhivya\Projects\MS Bot\UC 1\UseCase1OutlookDeletedItemsRecovery\UseCase1OutlookDeletedItemsRecovery\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+D:\Dhivya\Projects\MS Bot\UC 1\UseCase1OutlookDeletedItemsRecovery\UseCase1OutlookDeletedItemsRecovery\bin\en\Microsoft.Bot.Builder.resources.dll
+D:\Dhivya\Projects\MS Bot\UC 1\UseCase1OutlookDeletedItemsRecovery\UseCase1OutlookDeletedItemsRecovery\bin\es\Microsoft.Bot.Builder.resources.dll
+D:\Dhivya\Projects\MS Bot\UC 1\UseCase1OutlookDeletedItemsRecovery\UseCase1OutlookDeletedItemsRecovery\bin\fa\Microsoft.Bot.Builder.resources.dll
+D:\Dhivya\Projects\MS Bot\UC 1\UseCase1OutlookDeletedItemsRecovery\UseCase1OutlookDeletedItemsRecovery\bin\fr\Microsoft.Bot.Builder.resources.dll
+D:\Dhivya\Projects\MS Bot\UC 1\UseCase1OutlookDeletedItemsRecovery\UseCase1OutlookDeletedItemsRecovery\bin\ja\Microsoft.Bot.Builder.resources.dll
+D:\Dhivya\Projects\MS Bot\UC 1\UseCase1OutlookDeletedItemsRecovery\UseCase1OutlookDeletedItemsRecovery\bin\ru\Microsoft.Bot.Builder.resources.dll
+D:\Dhivya\Projects\MS Bot\UC 1\UseCase1OutlookDeletedItemsRecovery\UseCase1OutlookDeletedItemsRecovery\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+D:\Dhivya\Projects\MS Bot\UC 1\UseCase1OutlookDeletedItemsRecovery\UseCase1OutlookDeletedItemsRecovery\obj\Release\Bot Application.dll
+D:\Dhivya\Projects\MS Bot\UC 1\UseCase1OutlookDeletedItemsRecovery\UseCase1OutlookDeletedItemsRecovery\obj\Release\Bot Application.pdb
+D:\Dhivya\Projects\MS Bot\UC 1\UseCase1OutlookDeletedItemsRecovery\UseCase1OutlookDeletedItemsRecovery\obj\Release\UseCase1OutlookDeletedItemsRecovery.csprojResolveAssemblyReference.cache
